@@ -15,6 +15,7 @@
 		190532D41C8981280092170E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 190532D21C8981280092170E /* LaunchScreen.storyboard */; };
 		190532DF1C8981280092170E /* PruebaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 190532DE1C8981280092170E /* PruebaTests.swift */; };
 		190532EA1C8981280092170E /* PruebaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 190532E91C8981280092170E /* PruebaUITests.swift */; };
+		190532F81C8981390092170E /* ejercicio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 190532F71C8981390092170E /* ejercicio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		190532E51C8981280092170E /* PruebaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PruebaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		190532E91C8981280092170E /* PruebaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PruebaUITests.swift; sourceTree = "<group>"; };
 		190532EB1C8981280092170E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		190532F71C8981390092170E /* ejercicio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ejercicio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				190532C61C8981280092170E /* AppDelegate.swift */,
 				190532C81C8981280092170E /* ViewController.swift */,
+				190532F71C8981390092170E /* ejercicio.swift */,
 				190532CA1C8981280092170E /* Main.storyboard */,
 				190532D01C8981280092170E /* Assets.xcassets */,
 				190532D21C8981280092170E /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				190532C91C8981280092170E /* ViewController.swift in Sources */,
 				190532C71C8981280092170E /* AppDelegate.swift in Sources */,
 				190532CF1C8981280092170E /* Prueba.xcdatamodeld in Sources */,
+				190532F81C8981390092170E /* ejercicio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
